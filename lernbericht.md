@@ -30,6 +30,6 @@ Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt 
 
 👍 Die Dauer für dieses kleine Projekt verlief sehr schnell, da ich mich schon mit HTML recht auskenne und schon wusste, wie ich vorgehen soll.
 
-👎 Habe ich mich schnell ablenken lassen, als ich GIFS von Tieren angeschaut habe.
+👎 Ich Habe mich schnell ablenken lassen, als ich GIFS von Tieren angeschaut habe.
 
 **VBV**: Nächstesmal Ressourcen vom Internet nehmen, die einen nicht so ablenken (niedliche Tiervideos).
