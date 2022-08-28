@@ -11,27 +11,25 @@ Ich habe gelernt, wie man in JSF ein GIF auf einer Webseite einbindet und es anz
 
 ## Beschreibung
 
-<iframe src="https://giphy.com/embed/3yf0a7KmQyzhL4hle4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/java-programmingforadvanced-jsf-3yf0a7KmQyzhL4hle4">via GIPHY</a></p>
+![Doggo](https://media.giphy.com/media/3yf0a7KmQyzhL4hle4/giphy.gif)
 
-Ich habe mich dazu entschlossen, ein GIF in JSF zu einbinden. Dieser GIF ist sehr kurz, vielleicht höchstens eine halbe Sekunde. Es wiederholt sich jedoch jedes mal durchgehend, somit hört der Spass nicht auf. Es beinhaltet einen Hund, der gerade seine besten Momente erlebt und mit liebevollen Herzen um ihn in der Luft schwebt.
+Ich habe mich dazu entschlossen, ein GIF in JSF zu einbinden. Dieser GIF ist sehr kurz, vielleicht höchstens eine halbe Sekunde. Es wiederholt sich jedoch jedes mal durchgehend, somit hört der Spass nicht auf. Es beinhaltet einen Hund, der gerade seine besten Momente erlebt und mit liebevollen Herzen um ihn in der Luft schwebt. Dieser GIF wurde natürlich 100% in die Breite gezogen, damit man die Maximale Erfahrung bekommt.
 
-<img src="./myScreen.gif" alt="My Project GIF" width="500" height="600">
-
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Code für das Einbinden eines GIFS
+```
+    <h:body>
+        <h:graphicImage value="/gifs/dog.gif" width="100%" />
+    </h:body>
+```
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt habe, wie man einen GIF einbindet und wie man die Eigenschaften (Grösse) von diesem GIF ändert.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Die Dauer für dieses kleine Projekt verlief sehr schnell, da ich mich schon mit HTML recht auskenne und schon wusste, wie ich vorgehen soll.
 
-👎 und etwas, was nicht gut lief.
+👎 Habe ich mich schnell ablenken lassen, als ich GIFS von Tieren angeschaut habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächstesmal Ressourcen vom Internet nehmen, die einen nicht so ablenken (niedliche Tiervideos).
